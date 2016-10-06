@@ -6,10 +6,10 @@
 
     <array name="Action">
         <item>Unknown</item>
-        <item>Still</item>
+        <item>不动</item>
         <item>Petty action</item>
-        <item>Walking</item>
-        <item>Running</item>
+        <item>走起来</item>
+        <item>跑起来</item>
         <item>Climbing up stairs</item>
         <item>Climbing down stairs</item>
         <item>Riding up escalator</item>
@@ -30,7 +30,7 @@
 
     <array name="Position">
         <item>Unknown</item>
-        <item>Hand Fixed</item>
+        <item>手拿着！</item>
         <item>Hand Swing</item>
         <item>Pant Pocket</item>
         <item>Back Pocket</item>
@@ -44,7 +44,7 @@
     </array>
 
     <array name="HZ">
-        <item>SENSOR_DELAY_FASTEST</item>
+        <item>最快！</item>
         <item>SENSOR_DELAY_GAME</item>
         <item>SENSOR_DELAY_UI</item>
         <item>SENSOR_DELAY_NORMAL</item>

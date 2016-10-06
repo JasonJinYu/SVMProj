@@ -49,13 +49,13 @@
             android:id="@+id/btn_start_collection"
             style="@style/SvmBtnStyle"
             android:layout_width="1dp"
-            android:text="开采!" />
+            android:text="开采了!" />
 
         <Button
             android:id="@+id/btn_stop_collection"
             style="@style/SvmBtnStyle"
             android:layout_width="1dp"
-            android:text="停采!" />
+            android:text="停采了!" />
     </LinearLayout>
 
     <EditText
